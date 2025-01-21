@@ -1,16 +1,16 @@
 # 한반도는 지진에 안전한가?
-1. 개요()
-2. 팀원 소개()
-3. 기술 스택()
-4. 사용 데이터()
-5. 분석 흐름()
-6. 결론()
+1. [개요](#1-project-overview-프로젝트-개요)
+2. [팀원 소개](#2-team-members)
+3. [기술 스택](#3-technology-stack-기술-스택)
+4. [사용 데이터](#4-data-set-사용-데이터)
+5. [분석 흐름](#5-analysis-flow-분석-흐름)
+6. [결론](#6-conclusion-결론)
+7. [브랜치 전략](#7-branch-strategy-브랜치-전략)
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
 지진과 해일은 인류 역사에서 수많은 비극적 사건을 초래해 왔으며, 특히 2004년 푸켓의 지진해일, 2005년 카슈미르 지진, 2008년 쓰촨성 지진, 2010년 아이티 지진, 그리고 2011년 일본의 대지진과 해일로 인해 수많은 사상자와 재산피해를 발생시켰다. 특히 일본의 경우, 원자력 발전소의 붕괴라는 대참사로 인하여 지진해일의 위험성이 절실히 드러났다.    이러한 사건들은 인류에게 자연재해의 위협을 깊이 체감하게 했고, 이에 대한 경각심을 불러일으켰다.
 우리가 살고 있는 대한민국은 이러한 지진의 위협으로부터 안전할까? 이러한 의문을 바탕으로 본 프로젝트는 한국의 지진 위험성을 데이터 분석을 통해 심층적으로 탐구하고자 한다. 이를 통해 지진에 대한 이해를 높이고, 대한민국의 지진 대비 현황을 알아보고자 주제를 선정하게 되었다. 
-
 
 <br/>
 <br/>
@@ -21,7 +21,7 @@
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="150"> | <img src="https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/cb7daa44-a44a-40f2-82f3-cfe7e85e760c" alt="이현" width="150"> |
 | 팀장 | 팀원 | 팀원 | 팀원 |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
+| [GitHub](https://github.com/minganin99) | [GitHub](https://github.com/koo8450) | [GitHub](https://github.com/yerin1028) | [GitHub](https://github.com/hyun9396) |
 
 ### 2.2 Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
@@ -66,7 +66,6 @@
 
 
 # 4. Data Set (사용 데이터)
-
 - 사회안전에 대한 인식도(자연재해, 13세 이상 인구) – 통계청, (2024.11.12)
 - 국내 지진, 국외 지진 정보 – 기상청, (2024))
 - 오클라호마 지진 데이터 – 오클라호마 주립대학
@@ -105,13 +104,14 @@
 - 원자력 발전소 주변 지진 발생 현황 분석
 - 대피소 분포 및 접근성 분석
 
-# 6. Comclusion (결론)
+# 6. Conclusion (결론)
 한국은 불의 고리에 위치하지 않았더라도 최근 빈도수, 규모가 증가하였고 더 이상 안전하다고는 할 수 없음
+
 ### 6.1 개선 필요 사항
 - 기존 건축물 내진 보강률 향상
 - 체계적인 지진 대비 교육 및 훈련 강화
 - 대피소 시스템 개선 및 관리 강화
-- 
+  
 ### 6.2 향후 과제
 - 종합적 지진 대비 체계 구축
 - 민간 건축물 내진 보강 지원 확대
@@ -122,7 +122,7 @@
 <br/>
 <br/>
 
-# 8. 브랜치 전략 (Branch Strategy)
+# 7. Branch Strategy (브랜치 전략)
 - Git Flow를 기반으로 선정
 - 분석의 소주제마다 브랜치 생성(기능별)
 
