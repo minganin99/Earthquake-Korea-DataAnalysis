@@ -28,8 +28,8 @@
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | 정민관    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="정민관" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>산출물 관리</li><li>api 관련 데이터 수집</li><li>데이터 정제</li><li>데이터 시각화 및 자료 분석</li></ul>     |
-| 구경서   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="구경서" width="100">| <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul> |
-| 윤예린   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="윤예린" width="100">    |<ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul>  |
+| 구경서   |  <img src="[https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e](https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0)" alt="구경서" width="100">| <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul> |
+| 윤예린   |  <img src="[https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e](https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82)" alt="윤예린" width="100">    |<ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul>  |
 | 이현    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="100">    | <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표</li></ul>    |
 
 <br/>
