@@ -17,7 +17,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 정민관 | 구경서 | 윤예린 | 이현 |
 |:------:|:------:|:------:|:------:|
-| <img src="!https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="150"> | <img src="!https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="150"> |
+| <img src="https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="150"> | <img src="https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="150"> |
 | 팀장 | 팀원 | 팀원 | 팀원 |
 | [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
 
