@@ -1,6 +1,6 @@
 # Earthquake-Korea-DataAnalysis
 <a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
+<img src="" alt="배너" width="100%"/>
 </a>
 
 <br/>
@@ -8,8 +8,10 @@
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름: 지진희, 여진구, 그리고 박해일...!
-- 프로젝트 설명: 한국의 지진 및 안전 현황 분석
+- 프로젝트 이름: 한반도는 지진에 안전한가?
+- 프로젝트 배경: 지진과 해일은 인류 역사에서 수많은 비극적 사건을 초래해 왔으며, 특히 2004년 푸켓의 지진해일, 2005년 카슈미르 지진, 2008년 쓰촨성 지진, 2010년 아이티 지진, 그리고 2011년 일본의 대지진과 해일로 인해 수많은 사상자와 재산피해를 발생시켰다. 특히 일본의 경우, 원자력 발전소의 붕괴라는 대참사로 인하여 지진해일의 위험성이 절실히 드러났다.    이러한 사건들은 인류에게 자연재해의 위협을 깊이 체감하게 했고, 이에 대한 경각심을 불러일으켰다.
+우리가 살고 있는 대한민국은 이러한 지진의 위협으로부터 안전할까? 이러한 의문을 바탕으로 본 프로젝트는 한국의 지진 위험성을 데이터 분석을 통해 심층적으로 탐구하고자 한다. 이를 통해 지진에 대한 이해를 높이고, 대한민국의 지진 대비 현황을 알아보고자 주제를 선정하게 되었다. 
+
 
 <br/>
 <br/>
@@ -39,20 +41,20 @@
 ## 4.1 Language and Environment
 |  |  |
 |-----------------|-----------------|
-| Python    |<img src="https://github.com/user-attachments/assets/2e122e74-a28b-4ce7-aff6-382959216d31" alt="HTML5" width="100">| 
-| VSCode    |   <img src="https://github.com/user-attachments/assets/c531b03d-55a3-40bf-9195-9ff8c4688f13" alt="CSS3" width="100">|
-| PyCharm    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> | 
+| Python    |   <img src="https://github.com/user-attachments/assets/e25dd8d8-be57-47d6-8131-3357dfd1d719" alt="HTML5" width="100">| 
+| VSCode    |   <img src="https://github.com/user-attachments/assets/25efc7be-2959-4523-9803-33df9933687d" alt="CSS3" width="100">|
+| PyCharm   |   <img src="https://github.com/user-attachments/assets/9e057e7c-a59a-441f-b6da-2d6e7af44d83" alt="Javascript" width="100"> | 
 
 <br/>
 
-## 4.2 Data Analysis Tool
+## 4.2 Data Analysis
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| Pandas |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 18.3.1    |
-| Tableau |  <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100">| 6.1.12   |
-| Matplotlib |  <img src="https://github.com/user-attachments/assets/75a46fa7-ebc0-4a9d-b648-c589f87c4b55" alt="MUI" width="100">    | 5.0.0  |
-| Seaborn |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 1.11.12    |
-| Folium |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 1.11.12    |
+| Pandas |  <img src="https://github.com/user-attachments/assets/3d9d4475-4214-4249-a669-298a8223c1f6" alt="React" width="100"> | 데이터 분석    |
+| Tableau |  <img src="https://github.com/user-attachments/assets/7cb00e61-547f-46ed-8a7e-c90593540a29" alt="StyledComponents" width="100">| 데이터 시각화   |
+| Matplotlib |  <img src="https://github.com/user-attachments/assets/a2374cc7-2bb3-4f5f-9e81-6aea29b7c4cd" alt="MUI" width="100">    | 데이터 시각화 |
+| Seaborn |  <img src="https://github.com/user-attachments/assets/6d600bdf-80bd-4d6f-85b9-1eceba0d89ab" alt="DayJs" width="100">    | 데이터 시각화   |
+| Folium |  <img src="https://github.com/user-attachments/assets/27dabe1c-eadb-40c8-aa0e-c0a453bc6454" alt="DayJs" width="100">    | 데이터 지도 시각화    |
 
 <br/>
 
@@ -60,7 +62,7 @@
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
-| Google Drive    |  <img src="https://github.com/user-attachments/assets/32c615cb-7bc0-45cd-91ea-0d1450bfc8a9" alt="git kraken" width="100">    |
+| Google Drive    |  <img src="https://github.com/user-attachments/assets/01500d3c-e559-411b-9c13-c89b8f9b92ac" alt="git kraken" width="100">    |
 | Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">    |
 
 <br/>
@@ -86,13 +88,10 @@
 - 전국 공동주택 내진설계현황 – 행정안전부, (2016.05.31)
 - 지진해일 대피소 현황, 국내 대피소 현황, 민방위 대피소 – 행정안전부
 
-- **사회안전 인식도**:
-  - 회원가입 시 DB에 유저정보가 등록됩니다.
-
 <br/>
 <br/>
 
-# 6. Project Structure (프로젝트 구조)
+# 6. Analysis Reslt (분석 결과)
 ```plaintext
 project/
 ├── public/
