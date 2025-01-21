@@ -1,4 +1,4 @@
-# 한반도는 지진에 안전한가?
+# <img src="https://github.com/user-attachments/assets/554386e9-795b-44c8-96ae-79b84c2da10d" alt="지진임티" width="40"> 한반도는 지진에 안전한가?
 1. [개요](#1-project-overview-프로젝트-개요)
 2. [팀원 소개](#2-team-members)
 3. [기술 스택](#3-technology-stack-기술-스택)
