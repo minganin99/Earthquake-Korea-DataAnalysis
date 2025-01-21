@@ -1,4 +1,4 @@
-# Earthquake-Korea-DataAnalysis
+![image](https://github.com/user-attachments/assets/d38b5963-c0a5-4e82-ab6c-4e8a23065774)# Earthquake-Korea-DataAnalysis
 <a href="https://club-project-one.vercel.app/" target="_blank">
 <img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
 </a>
@@ -17,87 +17,79 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 정민관 | 구경서 | 윤예린 | 이현 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="구경서" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="150"> |
+| <img src="!https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="150"> | <img src="!https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="150"> |
 | 팀장 | 팀원 | 팀원 | 팀원 |
-| * pm | 팀원 | 팀원 | 팀원 |
 | [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
 
 <br/>
 <br/>
 
-# 3. Data Searching (사용 데이터)
-- **회원가입**:
-  - 회원가입 시 DB에 유저정보가 등록됩니다.
-
-- **로그인**:
-  - 사용자 인증 정보를 통해 로그인합니다.
-
-- **내 동아리 일정관리**:
-  - 캘린더 UI를 통해 동아리 관련 일정 추가&삭제가 가능합니다.
-  - 체크박스를 통해 종료되거나 이미 수행한 일정을 표시할 수 있습니다.
-
-- **동아리 찾기**:
-  - 대학 내 동아리를 검색할 수 있습니다.
-  - 검색 시 해당 동아리가 업로드한 홍보글이 보여집니다.
-
-- **동아리 홍보**:
-  - 홍보글 등록을 통해 동아리를 홍보할 수 있습니다.
-
-- **동아리 만들기**:
-  - 새로운 동아리를 만들어 관리할 수 있습니다.
-
-- **동아리 프로필**:
-  - 동아리 홍보글에서 동아리 이름(링크)를 클릭하면 해당 동아리 프로필로 이동합니다.
-  - 동아리 프로필에서는 동아리 소개, 동아리 활동사진 갤러리, 동아리 홍보글 기록관 등을 볼 수 있습니다.
-
-<br/>
-<br/>
-
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
+# 3. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 이동규    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>팀 리딩 및 커뮤니케이션</li><li>커스텀훅 개발</li></ul>     |
-| 신유승   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="100">| <ul><li>메인 페이지 개발</li><li>동아리 만들기 페이지 개발</li><li>커스텀훅 개발</li></ul> |
-| 김나연   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="100">    |<ul><li>홈 페이지 개발</li><li>로그인 페이지 개발</li><li>동아리 찾기 페이지 개발</li><li>동아리 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>  |
-| 이승준    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="100">    | <ul><li>회원가입 페이지 개발</li><li>마이 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>    |
+| 정민관    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="정민관" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>산출물 관리</li><li>api 관련 데이터 수집</li><li>데이터 정제</li><li>데이터 시각화 및 자료 분석</li></ul>     |
+| 구경서   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="구경서" width="100">| <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul> |
+| 윤예린   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="윤예린" width="100">    |<ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul>  |
+| 이현    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="100">    | <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표</li></ul>    |
 
 <br/>
 <br/>
 
-# 5. Technology Stack (기술 스택)
-## 5.1 Language
+# 4. Technology Stack (기술 스택)
+## 4.1 Language and Environment
 |  |  |
 |-----------------|-----------------|
-| HTML5    |<img src="https://github.com/user-attachments/assets/2e122e74-a28b-4ce7-aff6-382959216d31" alt="HTML5" width="100">| 
-| CSS3    |   <img src="https://github.com/user-attachments/assets/c531b03d-55a3-40bf-9195-9ff8c4688f13" alt="CSS3" width="100">|
-| Javascript    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> | 
+| Python    |<img src="https://github.com/user-attachments/assets/2e122e74-a28b-4ce7-aff6-382959216d31" alt="HTML5" width="100">| 
+| VSCode    |   <img src="https://github.com/user-attachments/assets/c531b03d-55a3-40bf-9195-9ff8c4688f13" alt="CSS3" width="100">|
+| PyCharm    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> | 
 
 <br/>
 
-## 5.2 Frotend
+## 4.2 Data Analysis Tool
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| React    |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 18.3.1    |
-| StyledComponents    |  <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100">| 6.1.12   |
-| MaterialUI    |  <img src="https://github.com/user-attachments/assets/75a46fa7-ebc0-4a9d-b648-c589f87c4b55" alt="MUI" width="100">    | 5.0.0  |
-| DayJs    |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 1.11.12    |
+| Pandas |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 18.3.1    |
+| Tableau |  <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100">| 6.1.12   |
+| Matplotlib |  <img src="https://github.com/user-attachments/assets/75a46fa7-ebc0-4a9d-b648-c589f87c4b55" alt="MUI" width="100">    | 5.0.0  |
+| Seaborn |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 1.11.12    |
+| Folium |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 1.11.12    |
 
 <br/>
 
-## 5.3 Backend
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| Firebase    |  <img src="https://github.com/user-attachments/assets/1694e458-9bb0-4a0b-8fe6-8efc6e675fa1" alt="Firebase" width="100">    | 10.12.5    |
-
-<br/>
-
-## 5.4 Cooperation
+## 4.4 Cooperation
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
-| Git Kraken    |  <img src="https://github.com/user-attachments/assets/32c615cb-7bc0-45cd-91ea-0d1450bfc8a9" alt="git kraken" width="100">    |
+| Google Drive    |  <img src="https://github.com/user-attachments/assets/32c615cb-7bc0-45cd-91ea-0d1450bfc8a9" alt="git kraken" width="100">    |
 | Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">    |
 
+<br/>
+
+# 5. Data Searching (사용 데이터)
+
+- 사회안전에 대한 인식도(자연재해, 13세 이상 인구) – 통계청, (2024.11.12)
+- 국내 지진, 국외 지진 정보 – 기상청, (2024))
+- 오클라호마 지진 데이터 – 오클라호마 주립대학
+- 연도별 국내 태풍 수 – 기상청
+- 연도별 한국 장마 평균 강수량 – 기상청
+- 연도별 한국 평균 강수 일수 – 기상청
+- 24년도 자연재난 피해비용, 24년도 자연재난복구비 – 행정안전부 (2024)
+- 국내원자력발전소 50km 이내 지진발생현황
+- 국내원전 내진설계 기준 현황 – 원자력안전위원회, (2021.10.08)
+- 국내원자력발전소 발전량 – 원자력안전위원회, (2021.10.08)
+- 국내원자력발전소 현황 – 원자력안전위원회, (2024.08.26)
+- 2020년 원전부지별 지진 감시 이력 현황 – 원자력안전위원회, (2021.09.02)
+- 2024년도 한국 지반 침하 사고, 국내지반 사고현황 – 국토교통부
+- 국내 지하수 개발현황, 국내 지하수 사용현황 – 한국 수자원공사
+- 지역별 지하수위 현황 – 농어촌지하수관측망시스템
+- 전국 공공건축물 내진설계현황 – 행정안전부, (2016.06.30)
+- 전국 공동주택 내진설계현황 – 행정안전부, (2016.05.31)
+- 지진해일 대피소 현황, 국내 대피소 현황, 민방위 대피소 – 행정안전부
+
+- **사회안전 인식도**:
+  - 회원가입 시 DB에 유저정보가 등록됩니다.
+
+<br/>
 <br/>
 
 # 6. Project Structure (프로젝트 구조)
