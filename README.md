@@ -17,7 +17,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 정민관 | 구경서 | 윤예린 | 이현 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="150"> | <img src="https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="150"> |
+| <img src="https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="150"> | <img src="https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/cb7daa44-a44a-40f2-82f3-cfe7e85e760c" alt="이현" width="150"> |
 | 팀장 | 팀원 | 팀원 | 팀원 |
 | [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
 
@@ -30,7 +30,7 @@
 | 정민관    |  <img src="https://github.com/user-attachments/assets/764fd54a-c92a-4fb0-9ef1-22f1120b1e11" alt="정민관" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>산출물 관리</li><li>api 관련 데이터 수집</li><li>데이터 정제</li><li>데이터 시각화 및 자료 분석</li></ul>     |
 | 구경서   |  <img src="https://github.com/user-attachments/assets/fe34cc03-5730-4c0b-aac5-b0811cc0cad0" alt="구경서" width="100">| <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul> |
 | 윤예린   |  <img src="https://github.com/user-attachments/assets/b177101a-5114-4429-bd15-b4474eb5eb82" alt="윤예린" width="100">    |<ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표자료 제작</li></ul>  |
-| 이현    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="100">    | <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표</li></ul>    |
+| 이현    |  <img src="https://github.com/user-attachments/assets/cb7daa44-a44a-40f2-82f3-cfe7e85e760c" alt="이현" width="100">    | <ul><li>데이터 수집</li><li>데이터 시각화 및 분석</li><li>발표</li></ul>    |
 
 <br/>
 <br/>
