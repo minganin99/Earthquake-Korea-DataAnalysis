@@ -19,12 +19,13 @@
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="구경서" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="윤예린" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이현" width="150"> |
 | 팀장 | 팀원 | 팀원 | 팀원 |
+| - pm | 팀원 | 팀원 | 팀원 |
 | [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
 
 <br/>
 <br/>
 
-# 3. Key Features (주요 기능)
+# 3. Data Searching (사용 데이터)
 - **회원가입**:
   - 회원가입 시 DB에 유저정보가 등록됩니다.
 
